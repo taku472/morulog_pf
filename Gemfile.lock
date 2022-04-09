@@ -166,12 +166,19 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.2)
+<<<<<<< HEAD
   dotenv-rails
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
   mysql2
   puma (~> 3.11)
+=======
+  jbuilder (~> 2.5)
+  jquery-rails
+  listen (~> 3.0.5)
+  puma (~> 3.0)
+>>>>>>> origin/main
   rails (~> 5.0.0)
   sass-rails (~> 5.0)
   spring
